@@ -1,0 +1,5 @@
+max-offset: 60000
+
+logging:
+  level:
+    com.silaev: DEBUG
